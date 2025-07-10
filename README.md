@@ -15,5 +15,5 @@ Developer Tools:
  - Intellij IDEA
 
 ## Extra-curricular projects
- - Real-time 
-
+ - **Real-time Facial recognition software with registration database** _(Python, SQL, OpenCV2)_
+    - ie
