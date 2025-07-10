@@ -26,4 +26,8 @@ Developer Tools:
     - Deployed the system on an arduino, ensuring all code and processing could run independently **without external hardware**.
     - Focused on **real-time analysis and feedback**, enhancing the bot’s potential use in health, fitness, and ergonomic applications.
 
-
+## University Projects
+ - Email Spam Filter _(Python, Logistic Regression)_
+ - Multi-threading File Processor _(Java)_
+ - Sudoku Solver _(Python, constrain propgation, baacktracking)_
+ - Gym Tracker App _(Python, matplotlib, PyQT)_
