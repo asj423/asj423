@@ -1,6 +1,23 @@
 ## Amarveer Johal
 ### First Year MComp (Hons) Computer Science and Mathematics at the University of Bath
 
+Languages:
+ - Python
+ - SQL
+ - R
+ - Haskell
+ - Java
+
+Developer Tools:
+ - Git
+ - VSCode
+ - Pycharm
+ - RStudio
+ - Intellij IDEA
+
+## Extra-curricular projects
+
+
 <!--
 **asj423/asj423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
